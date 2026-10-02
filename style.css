@@ -1,0 +1,119 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f6cb;
+    margin: 20;
+    padding: 20;
+}
+
+h1 {
+    text-align: center;
+    font-size: 95px;
+    font-family: 'brush script mt', cursive;
+}
+
+header {
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    background-color: #b5be97;
+    text-align: center;
+    font-size: 49px;
+    font-family: 'times new roman', serif;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.6;
+    font-size: 39px;
+}
+
+h3 {
+    background-color: #b5be97;
+    text-align: center;
+    font-size: 49px;
+    font-family: 'times new roman', serif;
+}
+
+h4 {
+    background-color: #b5be97;
+    text-align: center;
+    font-size: 49px;
+    font-family: 'times new roman', serif;
+}
+
+nav {
+    background-color: #c9c7c8;
+    padding: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #a0ab59;
+    padding: 10px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.product-card {
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+label {
+    font-size: 39px;
+    line-height: 1.6;
+}
+
+input {
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+button {
+    font-size: 20px;
+    line-height: 1.6;
+    text-align: center;
+    padding: 10px 20px;
+    background-color: #a0ab59;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.contact-box {
+    position: relative;
+    padding-top: 40px;
+}
+
+.top-home-link {
+    position: absolute;
+    top: 15px;
+    left: 39%;
+    background-color: #a0ab59;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.card-container {
+    background-color: #f5f5f5;
+    padding: -10px;
+    text-align: center;
+    font-size: 30px;
+}

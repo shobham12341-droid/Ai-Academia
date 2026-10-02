@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f6cb;
+    margin: 20;
+    padding: 20;
+}
+
+h1 {
+    text-align: center;
+    font-size: 69px;
+    font-family: 'brush script mt', cursive;
+}
+
+nav {
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.bottom-home-link {
+    position: absolute;
+    left: 39%;
+    background-color: #a0ab59;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.card-container {
+    background-color: #f5f5f5;
+    padding: -10px;
+    text-align: center;
+    font-size: 30px;
+}
